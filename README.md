@@ -1,5 +1,5 @@
 # CSQ_database
-Cell Signal Quality database (test and training data)
+Full Cell Signal Quality database (test and training data)
 
 Folder: Long_occupancy. Contains CSQ data corresponding to long occupation times (30min-2h). Check readme file in the same folder.
 
