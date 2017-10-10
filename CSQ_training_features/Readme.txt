@@ -1,5 +1,5 @@
 
-f_mQ: CSQ training features (all features)
+f_mQ: each row of f_mQ contains one CSQ training feature (histograms normalized). Columns are the bins. True_labels vector gives the corresponding information (occupied or empty environment). 
 bin: edge vector for histograms
 True_labels: 1 = true occupancy, 0 = false occupancy
 
